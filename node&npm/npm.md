@@ -1,3 +1,4 @@
+
 #### *npm官网（Node Package Manager）
 https://www.npmjs.com/
 
@@ -9,8 +10,8 @@ https://www.npmjs.com/
 | npm install | 安装package.json文件中所有依赖的第三方模块信息 |
 | npm install xxx --save | 安装xx并保存到配置清单到生产依赖中 |
 | npm install xxx@xxx | 安装指定版本号的依赖 |
-| npm install xxx --save-dev | 安装xx并保存到配置清单到开发依赖中 |
-| npm install node-sass - -save-dev  sass-loader - -save-dev   | `并列`安装xx并保存到配置清单到开发依赖中 |
+| npm install xxx --save -dev | 安装xx并保存到配置清单到开发依赖中 |
+| npm install node-sass --save -dev sass-loader --save -dev   | `并列`安装xx并保存到配置清单到开发依赖中 |
 | npm uninstall less （或-g）   | `卸载`该依赖 |
 | npm run xxx | `运行`package.json中的scripts脚本 |
 | npm install cnpm -g | 全局安装cnpm |
