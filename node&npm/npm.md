@@ -4,7 +4,7 @@ https://www.npmjs.com/
 
 #### * npm常用命令
 | 命令 | 描述 |
-| --- | --- |
+| :--- | :--- |
 | npm -v  | 查看当前npm版本 |
 | npm install -y | 创建配置清单 生成package.json |
 | npm install | 安装package.json文件中所有依赖的第三方模块信息 |
